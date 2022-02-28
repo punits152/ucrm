@@ -11,7 +11,7 @@
 
 
 ## To-Be Done
-
+1. Create a model for the contacts and leads 
 
 
 
