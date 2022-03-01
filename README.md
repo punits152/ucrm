@@ -19,3 +19,8 @@
 ## Done
 
 ss
+
+
+## Ideas
+* Stage concept is important in determining contact, lead and opportunity
+* Lead source is very important
